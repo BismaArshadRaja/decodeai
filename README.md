@@ -39,7 +39,7 @@ DecodeAI delivers:
 ---
 
 ## 🔗 Links
-- **Live Demo:** https://YOUR-LIVE-DEMO-LINK
+- **Live Demo:** https://decodeai.onrender.com/
 - **Demo Video:** https://drive.google.com/file/d/1qSkPkaAtmERAt2a3WtDDHbiOEi9P8i5h/view?usp=sharing
 - **GitHub Repository:** - **GitHub Repository:** https://github.com/BismaArshadRaja/decodeai
 
