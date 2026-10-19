@@ -1,0 +1,6 @@
+{
+  "name": "DecodeAI",
+  "description": "Decode any document in Urdu. Turns electricity bills, doctor prescriptions, and medical lab reports into simple Urdu text and voice notes with safety warnings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
